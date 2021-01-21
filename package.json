@@ -1,0 +1,25 @@
+{
+  "name": "auth-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himharsh1997/auth-test.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "AuthModule",
+    "Facebook",
+    "Google"
+  ],
+  "author": "Himanshu Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himharsh1997/auth-test/issues"
+  },
+  "homepage": "https://github.com/himharsh1997/auth-test#readme"
+}
